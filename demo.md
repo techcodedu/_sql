@@ -1,6 +1,3 @@
-Certainly! Let's start with the `employees` table and SQL function examples using only this table. After that, we'll introduce the `departments` table and show examples of SQL using joins. Here's the revised Markdown document:
-
-```markdown
 # SQL Schema Creation, Data Insertion, and Function Examples
 
 ## Part 1: `employees` Table and SQL Function Examples
