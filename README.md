@@ -65,7 +65,7 @@ INSERT INTO `orderdetails` (`OrderDetailsID`, `OrderID`, `ProductID`, `Quantity`
 ## SQL Exercises
 
 1. Select All Products: Write a SQL query to display all columns from the `product` table.
-2. Filter Specific Products: Display all details from the `product` table where the price is greater than $2.00.
+2. Filter Specific Products: Display all details from the `product` table where the price is greater than ₱2.00.
 3. Count Products: How many products are listed in the `product` table?
 4. Summarize Orders: Find the total cost of all orders in the `order` table.
 5. List Orders with Customer Mobile Number: Display a list of all orders including the customer's mobile number.
@@ -81,8 +81,8 @@ INSERT INTO `orderdetails` (`OrderDetailsID`, `OrderID`, `ProductID`, `Quantity`
 
  `product` table.
 15. Find the Most Expensive Product: Identify the most expensive product in the `product` table.
-16. List of Orders Below a Certain Cost: Display all orders with a total cost less than $10.00.
-17. Group Products by Price Range: Group products into price ranges (e.g., $0-$1, $1-$2, etc.).
+16. List of Orders Below a Certain Cost: Display all orders with a total cost less than ₱10.00.
+17. Group Products by Price Range: Group products into price ranges (e.g., ₱0-₱1, ₱1-₱2, etc.).
 18. Find Orders with Multiple Items: Identify orders that contain more than one item.
 19. Customer Order History: Display all orders made by a specific customer (choose any customer mobile number).
 20. Most Popular Product: Identify the product that has been ordered the most in terms of quantity.
