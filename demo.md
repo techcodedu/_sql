@@ -119,4 +119,3 @@ GROUP BY d.dept_name;
 This document provides a detailed guide on creating and manipulating data in SQL, including basic functions and more advanced operations involving joins between tables.
 ```
 
-This Markdown format covers both individual operations on the `employees` table and relational operations involving the `departments` table, providing a comprehensive guide for learning SQL.
