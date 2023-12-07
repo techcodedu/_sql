@@ -1,5 +1,3 @@
-Certainly! Here's a comprehensive markdown document that includes the SQL schema for the `kiosk_app` database and the SQL exercises. The solutions to the exercises are not included, as per your request.
-
 ```markdown
 # SQL Schema and Exercises for kiosk_app
 
