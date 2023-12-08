@@ -76,8 +76,6 @@ INSERT INTO `orderdetails` (`OrderDetailsID`, `OrderID`, `ProductID`, `Quantity`
 12. Update Product Price: Increase the price of all products by 10%.
 13. Delete an Order: Write a SQL command to delete order with `OrderID` 102.
 14. Create a New Product: Insert a new product into the
-
- `product` table.
 15. Find the Most Expensive Product: Identify the most expensive product in the `product` table.
 16. List of Orders Below a Certain Cost: Display all orders with a total cost less than ₱10.00.
 17. Group Products by Price Range: Group products into price ranges (e.g., ₱0-₱1, ₱1-₱2, etc.).
